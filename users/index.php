@@ -36,7 +36,7 @@
             <nav class="navbar navbar-expand-lg">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a href="#home" class="text-decoration-none">Home</a>
+                            <a href="#home" class="text-decoration-none">Home </a>
                         </li>
                         <li class="nav-item">
                             <a href="#about" class="text-decoration-none">About</a>
